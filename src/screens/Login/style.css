@@ -1,0 +1,13 @@
+.container-div {
+    text-align: center;
+}
+
+.login-div {
+    background-color: #585965;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
